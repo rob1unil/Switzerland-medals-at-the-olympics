@@ -30,8 +30,9 @@ Le deuxième graphique (index2.html)correspond à un diagramme circulaire et per
 ## Source des données
 
 Les données ont été récoltées sur le site www.swissolympicteam.ch
-Pour les jeux d'été : 1896 - 2020
-Pour les jeux d'hiver : 1924 - 2022
+
+Pour les jeux d'été : 1896 - 2020.
+Pour les jeux d'hiver : 1924 - 2022.
 
 ## Public cible
 
