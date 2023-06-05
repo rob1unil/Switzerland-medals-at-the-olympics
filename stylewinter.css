@@ -1,0 +1,61 @@
+/* Define the styles for the bar chart */
+.bar-chart {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+
+.bar-chart__label {
+    width: 100px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.bar-chart__bar {
+    flex-grow: 1;
+    margin-right: 5px;
+    position: relative;
+}
+
+.bar-chart__value {
+    position: center;
+    top: -20px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.bar-chart__bar--silver {
+    background-color: #C0C0C0;
+    height: 2cm;
+}
+
+.bar-chart__bar--gold {
+    background-color: #FFD700;
+    height: 3cm;
+}
+
+.bar-chart__bar--bronze {
+    background-color: #CD7F32;
+    height: 1cm;
+}
+
+#chartContainer {
+    height: 20cm;
+}
+
+.bar-chart__rank {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    background-color: #0066ff;
+    border-radius: 50%;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 14px;
+}
