@@ -44,17 +44,6 @@ if (year) {
     });
 }
 
-// Find the maximum value among all categories for the given year
-var maxValue = 0;
-filteredData.forEach(function(yearData) {
-    var values = Object.values(yearData).slice(1); // Extract values for gold, silver, and bronze
-
-    var maxCategoryValue = Math.max(...values);
-    if (maxCategoryValue > maxValue) {
-        maxValue = maxCategoryValue;
-        }
-    });
-
 // Create a bar chart for each year
 filteredData.forEach(function(yearData) {
     var chartRow = chartContainer.append("div").attr("class", "bar-chart");
@@ -64,17 +53,14 @@ filteredData.forEach(function(yearData) {
     var label = chartRow.append("div").attr("class", "bar-chart__label").text(yearData.year);
 
     var silverBar = chartRow.append("div").attr("class", "bar-chart__bar bar-chart__bar--silver");
-    silverBar.style("height", (yearData.silver / maxValue * 100) + '%');
-
+ 
     var silverValue = silverBar.append("div").attr("class", "bar-chart__value").text(yearData.silver);
 
     var goldBar = chartRow.append("div").attr("class", "bar-chart__bar bar-chart__bar--gold");
-    goldBar.style("height", (yearData.gold / maxValue * 100) + '%');
 
     var goldValue = goldBar.append("div").attr("class", "bar-chart__value").text(yearData.gold);
 
     var bronzeBar = chartRow.append("div").attr("class", "bar-chart__bar bar-chart__bar--bronze");
-    bronzeBar.style("height", (yearData.bronze / maxValue * 100) + '%');
 
     var bronzeValue = bronzeBar.append("div").attr("class", "bar-chart__value").text(yearData.bronze);
     });
