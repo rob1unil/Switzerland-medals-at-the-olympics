@@ -20,10 +20,10 @@ Le deuxième graphique (index2.html)correspond à un diagramme circulaire et per
 
 <img width="608" alt="display 5" src="https://github.com/rob1unil/exemple-2/assets/126593628/08d163a6-8c8c-4e84-9c42-c4a39a526ec7">
 
-Discipline Ete deuxième exemple:
+
 <img width="602" alt="diplay 6" src="https://github.com/rob1unil/exemple-2/assets/126593628/9752ceab-a221-40ec-ad44-cc838cfc5358">
 
-Discipline Hiver
+
 <img width="622" alt="diplay 7" src="https://github.com/rob1unil/exemple-2/assets/126593628/670c1606-36b1-4831-8e26-7afeaa9dc1cf">
 
 
