@@ -80,7 +80,7 @@ function updateChart() {
 }
 
 // Call the createBarChart function to generate the initial chart
-createBarChart(null);
+createBarChart(1924);
 
 // Populate the dropdown menu with years
 populateYearDropdown();
