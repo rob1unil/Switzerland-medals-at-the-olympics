@@ -16,7 +16,7 @@ Selection de l'année 1948:
 Exemple pour les jeux d'hiver avec le classement global affiché dans un cercle bleu:
 <img width="1063" alt="display 4" src="https://github.com/rob1unil/exemple-2/assets/126593628/72b112c2-aa1b-4b80-aaa6-5219fe725c04">
 
-Le deuxième graphique (index2.html)correspond à un diagramme circulaire et permet de voir les displines dans lesquelles la Suisse à gagné ses médailles. Les sports sont rendus visibles en passant la souris sur les tranches du graphique ainsi que le nombre de médailles gagnées dans ce sport.
+Le deuxième graphique (index2.html) correspond à un diagramme circulaire et permet de voir les displines dans lesquelles la Suisse a gagné ses médailles. Les sports sont rendus visibles en passant la souris sur les tranches du graphique ainsi que le nombre de médailles gagnées dans ce sport.
 
 <img width="608" alt="display 5" src="https://github.com/rob1unil/exemple-2/assets/126593628/08d163a6-8c8c-4e84-9c42-c4a39a526ec7">
 
