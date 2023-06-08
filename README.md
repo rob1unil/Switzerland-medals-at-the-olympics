@@ -8,23 +8,23 @@ Le premier est un histogramme qui se matérialise sous la forme d'un podium, rep
 <img width="1066" alt="display 1" src="https://github.com/rob1unil/Switzerland-medals-at-the-olympics/assets/126593628/1c2dc3d1-44e9-489e-ab29-2f8facdc3490">
 
 Le selecteur renseigne les données displonibles en fonction de la saison.
-<img width="1062" alt="display 2" src="https://github.com/rob1unil/exemple-2/assets/126593628/32651f3c-e947-457e-abd8-8877624b9ee6">
+<img width="1062" alt="display 2" src="https://github.com/rob1unil/Switzerland-medals-at-the-olympics/assets/126593628/e988cf00-603f-46fd-b55d-6e5bcc736453">
 
 Selection de l'année 1948:
-<img width="1065" alt="display 3" src="https://github.com/rob1unil/exemple-2/assets/126593628/2f8a6667-3b27-475b-a12f-6100876c364f">
+<img width="1065" alt="display 3" src="https://github.com/rob1unil/Switzerland-medals-at-the-olympics/assets/126593628/a0267a1e-7d86-441b-b6a7-81691d832c63">
 
 Exemple pour les jeux d'hiver avec le classement global affiché dans un cercle bleu:
-<img width="1063" alt="display 4" src="https://github.com/rob1unil/exemple-2/assets/126593628/72b112c2-aa1b-4b80-aaa6-5219fe725c04">
+<img width="1063" alt="display 4" src="https://github.com/rob1unil/Switzerland-medals-at-the-olympics/assets/126593628/0e568909-1252-4007-8cee-aa7754613dfa">
 
 Le deuxième graphique (index2.html) correspond à un diagramme circulaire et permet de voir les displines dans lesquelles la Suisse a gagné ses médailles. Les sports sont rendus visibles en passant la souris sur les tranches du graphique ainsi que le nombre de médailles gagnées dans ce sport.
 
-<img width="608" alt="display 5" src="https://github.com/rob1unil/exemple-2/assets/126593628/08d163a6-8c8c-4e84-9c42-c4a39a526ec7">
+<img width="608" alt="display 5" src="https://github.com/rob1unil/Switzerland-medals-at-the-olympics/assets/126593628/f05cbdcc-8d8f-477b-8c0c-84a1fd769d2f">
 
 
-<img width="602" alt="diplay 6" src="https://github.com/rob1unil/exemple-2/assets/126593628/9752ceab-a221-40ec-ad44-cc838cfc5358">
+<img width="602" alt="diplay 6" src="https://github.com/rob1unil/Switzerland-medals-at-the-olympics/assets/126593628/3c26bd44-e9d0-47a9-b8c6-27b27bf3890f">
 
 
-<img width="622" alt="diplay 7" src="https://github.com/rob1unil/exemple-2/assets/126593628/670c1606-36b1-4831-8e26-7afeaa9dc1cf">
+<img width="622" alt="diplay 7" src="https://github.com/rob1unil/Switzerland-medals-at-the-olympics/assets/126593628/93aa20c4-420b-47c2-9fca-af374a217209">
 
 
 ## Source des données
