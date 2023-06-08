@@ -12,7 +12,7 @@
 }
 
 .bar-chart__bar {
-    flex-grow: 1;
+    width: 150px;
     margin-right: 5px;
     position: relative;
 }
