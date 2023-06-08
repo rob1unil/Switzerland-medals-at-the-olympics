@@ -5,7 +5,7 @@
 Dans le cadre du cours de visualisation des données de M.Isaac Pante, j'ai établi les graphiques suivants:
 Le premier est un histogramme qui se matérialise sous la forme d'un podium, représentant les médailles d'argent, d'or et de bronze gagnées lors des jeux de l'année sélectionnée. Un sélecteur permet de filtrer sur une année spécifique afin de connaître la répartition exacte des médailles dans chaque catégories. Le graphique renseigne également le classement de la Suisse à la fin des Jeux en fonction des résultats des autres nations. Le résultat est affiché dans un cercle jaune pour les jeux d'été et un cercle bleu pour ceux d'hiver.
 
-<img width="1066" alt="display 1" src="https://github.com/rob1unil/exemple-2/assets/126593628/2146f5e5-8b8d-4080-9a64-f5496efe4ea4">
+<img width="1066" alt="display 1" src="https://github.com/rob1unil/Switzerland-medals-at-the-olympics/assets/126593628/1c2dc3d1-44e9-489e-ab29-2f8facdc3490">
 
 Le selecteur renseigne les données displonibles en fonction de la saison.
 <img width="1062" alt="display 2" src="https://github.com/rob1unil/exemple-2/assets/126593628/32651f3c-e947-457e-abd8-8877624b9ee6">
