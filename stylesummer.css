@@ -41,10 +41,6 @@
     height: 1cm;
 }
 
-chartContainer {
-    height: 20cm;
-}
-
 .bar-chart__rank {
     position: relative;
     width: 80px;
